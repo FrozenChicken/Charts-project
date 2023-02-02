@@ -1,0 +1,14 @@
+{
+  "name": "89b3d0cd8d5d7ffd",
+  "main": "89b3d0cd8d5d7ffd@11.js",
+  "version": "11.0.0",
+  "homepage": "https://observablehq.com/d/89b3d0cd8d5d7ffd",
+  "author": {
+    "name": "Aleksander Bartyzel",
+    "url": "https://observablehq.com/@alexbartyzel"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
